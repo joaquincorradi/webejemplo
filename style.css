@@ -1,0 +1,79 @@
+* {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+}
+
+#logo {
+  float: left;
+  margin: 1.25rem;
+  border: solid 0.125rem grey;
+  border-radius: 0.3rem;
+  padding: 0.4rem;
+}
+
+#barra {
+  margin: 3rem;
+  border: 0.06rem solid grey;
+  border-radius: 0.3rem;
+}
+
+img.div1 {
+  float: left;
+  margin: 1.5rem;
+  border: solid 0.125rem grey;
+  border-radius: 0.3rem;
+  padding: 0.4rem;
+}
+
+p.div1 {
+  margin: 1rem;
+  border: solid 0.125rem grey;
+  border-radius: 0.3rem;
+  padding: 1.5rem;
+}
+
+img.div2 {
+  float: right;
+  margin: 1.5rem;
+  border: solid 0.125rem grey;
+  border-radius: 0.3rem;
+  padding: 0.4rem;
+}
+
+p.div2 {
+  margin: 1rem;
+  border: solid 0.125rem grey;
+  border-radius: 0.3rem;
+  padding: 1.5rem;
+}
+
+footer {
+  text-align: center;
+}
+
+#redes {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 0.3125rem;
+  margin: 2rem;
+}
+
+img.instagram {
+  margin: 0.2rem;
+  border: solid 0.125rem grey;
+  border-radius: 0.3rem;
+  padding: 0.7rem;
+}
+
+img.twitter {
+  margin: 0.2rem;
+  border: solid 0.125rem grey;
+  border-radius: 0.3rem;
+  padding: 0.7rem;
+}
+
+img.facebook {
+  margin: 0.2rem;
+  border: solid 0.125rem grey;
+  border-radius: 0.3rem;
+  padding: 0.7rem;
+}
